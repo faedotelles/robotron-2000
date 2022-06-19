@@ -36,6 +36,18 @@ main {
     flex-basis: 40%;
     position: relative;
 }
+.alterar {
+    margin: 2px;
+    width: 200px;
+}
+
+.botoes {
+    width: 10px;
+   position: relative;
+   right: -10%;
+   bottom: 10%;
+   display: flex;
+}
 
 .robo {
     height: 110%;
@@ -44,6 +56,9 @@ main {
     left: -20%;
     top: -5%;
 }
+
+
+
 
 .titulo {
     transform: rotate(180deg);
